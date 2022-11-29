@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/drawable/ic_baseline_edit_attributes_24.xml" value="0.175" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_home.xml" value="0.4303586321934946" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_page.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_player.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_shoulder.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_shoulder_press.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/activity_tab_layout.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/card.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/fragment_back.xml" value="0.26875" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/fragment_front.xml" value="0.26461538461538464" />
+        <entry key="..\:/Users/shiva/AndroidStudioProjects/GYM/app/src/main/res/layout/fragment_home.xml" value="0.26461538461538464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
